@@ -1,0 +1,15 @@
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\bin\Debug\net6.0\ejercicio_for.exe
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\bin\Debug\net6.0\ejercicio_for.deps.json
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\bin\Debug\net6.0\ejercicio_for.runtimeconfig.json
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\bin\Debug\net6.0\ejercicio_for.dll
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\bin\Debug\net6.0\ejercicio_for.pdb
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.AssemblyInfo.cs
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.dll
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\refint\ejercicio_for.dll
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.pdb
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ejercicio_for.genruntimeconfig.cache
+C:\Users\carlo\Documents\odalis\ejercicio_for\ejercicio_for\obj\Debug\net6.0\ref\ejercicio_for.dll
